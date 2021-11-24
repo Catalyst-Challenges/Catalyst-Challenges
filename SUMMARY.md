@@ -11,7 +11,7 @@
 * [Catalyst - Rapid Funding Mechanisms](fund-7/catalyst-rapid-funding-mechanisms.md)
 * [Community Events](fund-7/community-events.md)
 * [Connecting Japan Community](fund-7/connecting-japan-community.md)
-* [DAOs <3 Cardano](fund-7/daos-less-than-3-cardano.md)
+* [DAOs Love Cardano](fund-7/daos-love-cardano.md)
 * [DApps & Integrations](fund-7/dapps-and-integrations.md)
 * [Disarm cyber disinformation attacks](fund-7/disarm-cyber-disinformation-attacks.md)
 * [Gamers On-Chained](fund-7/gamers-on-chained.md)
