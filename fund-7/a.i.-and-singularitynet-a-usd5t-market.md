@@ -18,3 +18,6 @@ Andrew Robertson Penney
 
 Marta Lyall
 
+## Town Hall Slide Presentation
+
+{% embed url="https://docs.google.com/presentation/d/16uFWfHQrCZfPI7giB-UVCjDLRVfVISpF8E1M3WRizRQ/edit?usp=sharing" %}
