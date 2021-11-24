@@ -24,5 +24,11 @@ A [Contributions policy](https://github.com/Catalyst-Challenges/F7-AI-Singularit
 
 A [Code of Conduct](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet/blob/main/CODE-OF-CONDUCT.md) derived from the [Contributor Covenant](https://www.contributor-covenant.org)
 
+### Coordination Project Board
+
+A GitHub Project Board based on an automated Kanban board setup is located in the&#x20;
+
+{% embed url="https://github.com/Catalyst-Challenges/Catalyst-Challenges-Coordination/projects/1" %}
+
 
 
