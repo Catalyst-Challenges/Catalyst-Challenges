@@ -6,3 +6,16 @@ coverY: 0
 
 # DAOs Love Cardano
 
+## Presentation
+
+
+
+## Challenge Team
+
+### Aharon Porath
+
+### Diego Pamio
+
+### John Kochevar
+
+### Luca Cosivi
