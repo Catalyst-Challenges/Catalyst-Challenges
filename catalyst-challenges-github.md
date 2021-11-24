@@ -12,7 +12,7 @@ A Catalyst Challenges GitHub Organisation is available here :
 
 This is where the content of this GitBook lives in markdown format.&#x20;
 
-### Repositories&#x20;
+### Open-Source Repositories&#x20;
 
 There are also repositories for each Fund 7 Challenge that follow a standard open source format.&#x20;
 
