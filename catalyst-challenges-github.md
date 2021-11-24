@@ -10,7 +10,11 @@ A Catalyst Challenges GitHub Organisation is available here :
 
 {% embed url="https://github.com/Catalyst-Challenges" %}
 
-This is where the content of this GitBook lives in markdown format. There are also repositories for each Fund 7 Challenge that follow a standard open source format.&#x20;
+This is where the content of this GitBook lives in markdown format.&#x20;
+
+### Repositories&#x20;
+
+There are also repositories for each Fund 7 Challenge that follow a standard open source format.&#x20;
 
 Using the [F7-AI-SingularityNet](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet) repository as an example each contains :
 
