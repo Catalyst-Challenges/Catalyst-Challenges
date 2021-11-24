@@ -1,8 +1,8 @@
 ---
-description: A Community Resource for Catalyst Challenge Teams
+description: A Community Resource for Catalyst Challenge Teams in Fund 7
 ---
 
-# Catalyst-Challenges
+# Catalyst Fund 7 Challenges
 
 ## Challenge Team Sign-Ups (public)
 

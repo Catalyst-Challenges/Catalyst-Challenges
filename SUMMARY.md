@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Catalyst-Challenges](README.md)
+* [Catalyst Fund 7 Challenges](README.md)
 
 ## Fund 7
 
