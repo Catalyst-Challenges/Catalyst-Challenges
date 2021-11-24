@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Catalyst Fund 7 Challenges](README.md)
-* [Fund 7 Proposal](fund-7-proposal.md)
+* [Fund 7 Proposal : Catalyst Challenges Hub](fund-7-proposal-catalyst-challenges-hub.md)
 
 ## Fund 7
 
