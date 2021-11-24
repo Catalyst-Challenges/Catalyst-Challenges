@@ -14,9 +14,11 @@ description: >-
 
 ## Challenge Team
 
-Andrew Robertson Penney
+### Andrew Robertson Penney
 
-Marta Lyall
+### Marta Lyall
+
+History working on emerging technologies. Technical Knowledge. Humanities Background.
 
 ## Town Hall Slide Presentation
 
