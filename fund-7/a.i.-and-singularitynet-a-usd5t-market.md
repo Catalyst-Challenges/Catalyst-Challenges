@@ -8,6 +8,10 @@ description: >-
 
 # A.I. & SingularityNet a $5T market
 
+## Town Hall Slide Presentation
+
+{% embed url="https://docs.google.com/presentation/d/16uFWfHQrCZfPI7giB-UVCjDLRVfVISpF8E1M3WRizRQ/edit?usp=sharing" %}
+
 ## Ideascale Link
 
 {% embed url="https://cardano.ideascale.com/a/campaign-home/26247" %}
@@ -19,7 +23,3 @@ description: >-
 ### Marta Lyall
 
 History working on emerging technologies. Technical Knowledge. Humanities Background.
-
-## Town Hall Slide Presentation
-
-{% embed url="https://docs.google.com/presentation/d/16uFWfHQrCZfPI7giB-UVCjDLRVfVISpF8E1M3WRizRQ/edit?usp=sharing" %}
