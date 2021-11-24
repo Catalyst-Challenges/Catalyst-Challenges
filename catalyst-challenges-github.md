@@ -26,7 +26,9 @@ A [Code of Conduct](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet/
 
 ### Coordination Project Board
 
-A GitHub Project Board based on an automated Kanban board setup is located in the [Catalyst-Challenges-Coordination](https://github.com/Catalyst-Challenges/Catalyst-Challenges-Coordination) repository here [https://github.com/Catalyst-Challenges/Catalyst-Challenges-Coordination/projects/1](https://github.com/Catalyst-Challenges/Catalyst-Challenges-Coordination/projects/1) .
+A GitHub Project Board based on an automated Kanban board setup (similar to Trello) is located in the [Catalyst-Challenges-Coordination](https://github.com/Catalyst-Challenges/Catalyst-Challenges-Coordination) repository here [https://github.com/Catalyst-Challenges/Catalyst-Challenges-Coordination/projects/1](https://github.com/Catalyst-Challenges/Catalyst-Challenges-Coordination/projects/1) .
+
+An example of an Issue "Set-up Catalyst-Challenges GitHub Organisation" that is tracked in this Kanban board can be seen here - [https://github.com/Catalyst-Challenges/Catalyst-Challenges-Coordination/issues/1](https://github.com/Catalyst-Challenges/Catalyst-Challenges-Coordination/issues/1)
 
 
 
