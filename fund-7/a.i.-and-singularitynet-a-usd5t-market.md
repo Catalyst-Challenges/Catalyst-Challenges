@@ -23,3 +23,7 @@ description: >-
 ### Marta Lyall
 
 History working on emerging technologies. Technical Knowledge. Humanities Background.
+
+## GitHub Repository
+
+{% embed url="https://github.com/Catalyst-Challenges/F7-AI-SingularityNet" %}
