@@ -6,7 +6,11 @@ description: A Community Resource for Catalyst Challenge Teams in Fund 7
 
 ## Overview
 
+> Community defined challenges are critical for Cardano community self-governance, and generate a unique way to achieve Cardano's mission.
 
+## Telegram Group
+
+{% embed url="https://t.me/challengeteams" %}
 
 ## Challenge Team Sign-Ups (public)
 
