@@ -3,6 +3,7 @@
 * [Catalyst Fund 7 Challenges](README.md)
 * [Catalyst Challenges GitHub](catalyst-challenges-github.md)
 * [Fund 7 Proposal : Catalyst Challenges Hub](fund-7-proposal.md)
+* [F7 Fund8 Challenge setting](f7-fund8-challenge-setting.md)
 
 ## Fund 7
 
