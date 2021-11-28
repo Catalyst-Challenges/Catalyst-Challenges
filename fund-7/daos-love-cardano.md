@@ -6,8 +6,9 @@ coverY: 0
 
 # DAOs Love Cardano
 
-## Presentation
+## Town Hall Slide Presentation
 
+## Ideascale Link
 
 
 ## Challenge Team
@@ -27,3 +28,8 @@ Outside of the box thinking, creative communication, fascination with DAO struct
 ### Luca Cosivi
 
 As I mentioned I am an Aragon ambassador, thanks to that I have built an understanding on the necessity of DAO tools to enable people to easily create and run DAOs in the ecosystem. Aside from that I have experience in entrepreneurship and currently a research fellow focused on blockchain technology.
+
+
+
+## GitHub Repository
+
