@@ -12,6 +12,8 @@ description: >-
 
 ## Ideascale Link
 
+{% embed url="https://cardano.ideascale.com/a/campaign-home/26236" %}
+
 ## Challenge Team
 
 ## GitHub Repository
