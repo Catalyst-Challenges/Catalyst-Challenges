@@ -1,6 +1,9 @@
 ---
 cover: ../.gitbook/assets/Defi.png
 coverY: 0
+description: >-
+  How can we encourage DeFi teams to build/deploy open finance solutions on
+  Cardano in the next 6 months?
 ---
 
 # Boosting Cardano's DeFi
