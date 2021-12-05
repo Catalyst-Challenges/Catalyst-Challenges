@@ -1,3 +1,9 @@
+---
+description: >-
+  How can we distribute Cardano Treasury funds more rapidly in a transparent,
+  accountable, and safe manner?
+---
+
 # Catalyst - Rapid Funding Mechanisms
 
 ## Town Hall Slide Presentation
